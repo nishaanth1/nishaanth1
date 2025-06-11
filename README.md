@@ -1,4 +1,4 @@
-## Hi there 👋 Nishaanth here
+## Hi there 👋, Nishaanth here.
 
 <!--
 **nishaanth1/nishaanth1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
